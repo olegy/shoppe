@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails", ">= 4.0.0", "< 5.0"
   s.add_dependency "bcrypt", ">= 3.1.2", "< 3.2"
-  s.add_dependency "ransack", ">= 1.2.0", "< 1.6.3"
+  s.add_dependency "ransack", ">= 1.2.0", "<= 1.6.6"
   s.add_dependency "kaminari", ">= 0.14.1", "< 0.17"
   s.add_dependency "haml", ">= 4.0", "< 5.0"
   s.add_dependency "dynamic_form", "~> 1.1", ">= 1.1.4"
